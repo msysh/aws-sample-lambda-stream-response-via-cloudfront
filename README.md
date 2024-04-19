@@ -22,13 +22,13 @@ If you have not installed the CDK, first install it by referring to [this docume
 ### 1. Clone this project
 
 ```bash
-git clone https://github.com/msysh/XXXXXXXXXXXXX.git
+git clone https://github.com/msysh/aws-sample-lambda-stream-response-via-cloudfront.git
 ```
 
 ### 2. Deploy AWS resources by CDK
 
 ```bash
-cd XXXXXXXXXXXXX
+cd aws-sample-lambda-stream-response-via-cloudfront
 cdk deploy
 ```
 
