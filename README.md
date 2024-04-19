@@ -35,8 +35,8 @@ cdk deploy
 After completion deployment, you can get following values and so on.
 Please note them.
 
-* CodeCommit repository URL (SSH or GRC) (`OutputCloudFrontDistributionUrl`)
-* ECS Cluster name (`OutputS3BucketName`)
+* CloudFront Distribution URL (`OutputCloudFrontDistributionUrl`)
+* S3 Bucket name (`OutputS3BucketName`)
 
 ### 3. Upload a large file to S3
 
